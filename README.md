@@ -14,4 +14,4 @@ ps：/etc/init.d/dnsmasq里面已修改过，把生成的dnsmasq_list.conf拷贝
 dnsmasq函数结束处加入 `cp -f /root/dnsmasq_list.conf /var/etc/dnsmasq.d/`
 
 ######参考项目
-[1]: [gfwlist2dnsmasq python版](http://https://github.com/cokebar/gfwlist2dnsmasq)
+[1]: [gfwlist2dnsmasq python版](https://github.com/cokebar/gfwlist2dnsmasq)
