@@ -1,5 +1,13 @@
 广东频道,#genre#
 广东珠江,http://mom.coms.hk:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
+广东珠江,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
+广东珠江,http://14.19.211.0:6688/udp/239.77.0.3:5146
+广东珠江,http://14.19.211.0:6688/udp/239.77.1.94:5146
+广东珠江,http://14.212.185.138:9901/tsfile/live/0019_1.m3u8
+广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
+广东珠江,http://119.129.216.141:4000/udp/239.77.0.1:5146
+广东珠江,http://119.129.216.141:4000/udp/239.77.0.114:5146
 广东珠江,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=gdzj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广东珠江,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=gdzjv6&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广东珠江,http://113.98.122.166:9901/tsfile/live/1054_1.m3u8
