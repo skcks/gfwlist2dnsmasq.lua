@@ -1,9 +1,10 @@
 广东频道,#genre#
-广东珠江,http://113.65.7.242:8888/udp/239.77.0.1:5146$720x576
-广东珠江,http://218.18.4.146:8888/rtp/239.77.1.94:5146$720x576
-广东珠江,http://218.18.4.146:8888/rtp/239.77.0.3:5146$720x576
-广东珠江,http://113.109.250.1:9999/rtp/239.77.1.94:5146$720x576
-广东珠江,http://116.28.124.163:5000/rtp/239.77.0.3:5146$720x576
+广东珠江,http://183.33.56.53:8686/rtp/239.77.0.1:5146$1920x1080
+广东珠江,http://81.70.164.229:10002/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://219.137.203.224:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://119.129.172.119:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://119.129.172.164:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://219.137.203.243:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://mom.coms.hk:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/1300.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
