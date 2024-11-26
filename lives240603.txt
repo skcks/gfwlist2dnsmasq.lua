@@ -1,7 +1,4 @@
 广东频道,#genre#
-广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
-广东珠江,http://php.jdshipin.com:8880/xsj.php?id=gdzj
 广东珠江,http://183.29.197.170:8686/udp/239.77.0.1:5146$订阅源|1920x1080
 广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$订阅源
 广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8$订阅源
